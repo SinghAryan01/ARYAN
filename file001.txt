@@ -1,5 +1,0 @@
-nemo is my cat
-hello
-
-
-world
